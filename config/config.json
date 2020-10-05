@@ -21,7 +21,7 @@
     "username": "point_username",
     "password": "Naufal Inside123",
     "database": "point_admin_data",
-    "host": "85.10.205.173"
+    "host": "85.10.205.173",
     "port" : 3306,
     "dialect": "mysql",
     "operatorsAliases": false
