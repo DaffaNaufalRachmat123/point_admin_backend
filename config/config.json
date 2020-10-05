@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "points_admin_123",
+    "password": "Naufal Inside123",
+    "database": "points_admin",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "points_admin_123",
+    "password": "Naufal Inside123",
+    "database": "points_admin",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "points_admin_123",
+    "password": "Naufal Inside123",
+    "database": "points_admin",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
