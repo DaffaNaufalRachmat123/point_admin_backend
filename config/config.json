@@ -1,25 +1,28 @@
 {
   "development": {
-    "username": "points_admin_123",
+    "username": "point_username",
     "password": "Naufal Inside123",
-    "database": "points_admin",
-    "host": "127.0.0.1",
+    "database": "point_admin_data",
+    "host": "85.10.205.173",
+    "port" : 3306,
     "dialect": "mysql",
     "operatorsAliases": false
   },
   "test": {
-    "username": "points_admin_123",
+    "username": "point_username",
     "password": "Naufal Inside123",
-    "database": "points_admin",
-    "host": "127.0.0.1",
+    "database": "point_admin_data",
+    "host": "85.10.205.173",
+    "port" : 3306,
     "dialect": "mysql",
     "operatorsAliases": false
   },
   "production": {
-    "username": "points_admin_123",
+    "username": "point_username",
     "password": "Naufal Inside123",
-    "database": "points_admin",
-    "host": "127.0.0.1",
+    "database": "point_admin_data",
+    "host": "85.10.205.173"
+    "port" : 3306,
     "dialect": "mysql",
     "operatorsAliases": false
   }
